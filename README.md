@@ -78,11 +78,19 @@ Dipul Kumar
 
 ## Screenshots
 
-### Home Page
+### 🏠 Home Page
 ![Home Page](home%20page.png)
 
-### Speech to Text
+### 🎙️ Speech to Text
 ![Speech to Text](speechtotext.png)
 
-### Language Detection
+### 🌍 Language Detection
 ![Language Detection](laungagedetect.png)
+
+
+## Future Improvements
+
+- User Authentication
+- Real-time Speech Analysis
+- Improved Pronunciation Scoring
+- Dashboard Analytics
