@@ -85,7 +85,7 @@ Dipul Kumar
 ![Speech to Text](speechtotext.png)
 
 ### 🌍 Language Detection
-![Language Detection](laungagedetect.png)
+![Language Detection](Language Detection.png)
 
 
 ## Future Improvements
