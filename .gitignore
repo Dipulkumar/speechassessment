@@ -1,0 +1,33 @@
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java / Spring Boot
+target/
+build/
+*.class
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache / temp
+.cache/
+temp/
+
+# Audio generated files
+sampleAudio/
