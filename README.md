@@ -71,9 +71,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Author
 
-Dipul Kumar
 
 
 ## Screenshots
@@ -94,3 +92,8 @@ Dipul Kumar
 - Real-time Speech Analysis
 - Improved Pronunciation Scoring
 - Dashboard Analytics
+
+
+## Author
+
+Dipul Kumar
