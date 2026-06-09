@@ -74,3 +74,15 @@ python app.py
 ## Author
 
 Dipul Kumar
+
+
+## Screenshots
+
+### Home Page
+![Home Page](home%20page.png)
+
+### Speech to Text
+![Speech to Text](speechtotext.png)
+
+### Language Detection
+![Language Detection](laungagedetect.png)
